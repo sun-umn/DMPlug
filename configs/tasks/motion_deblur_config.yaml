@@ -1,0 +1,11 @@
+kernel: motion
+kernel_size: 64
+intensity: 0.5
+
+measurement:
+  operator:
+    name: blind_blur
+
+  noise: 
+    name: gaussian
+    sigma: 0.01

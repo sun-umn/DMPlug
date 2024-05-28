@@ -1,0 +1,9 @@
+measurement:
+  operator:
+    name: super_resolution
+    in_shape: !!python/tuple [1, 3, 256, 256]
+    scale_factor: 4
+  
+  noise: 
+    name: gaussian
+    sigma: 0.01

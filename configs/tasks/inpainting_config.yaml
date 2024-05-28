@@ -1,0 +1,11 @@
+measurement:
+  operator:
+    name: inpainting
+  mask_opt:
+    mask_type: random
+    mask_prob_range: !!python/tuple [0.7, 0.7]  # for random
+    image_size: 256
+
+  noise:
+    name: gaussian
+    sigma: 0.01
