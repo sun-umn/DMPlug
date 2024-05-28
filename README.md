@@ -40,6 +40,12 @@ git clone https://github.com/VinAIResearch/blur-kernel-space-exploring bkse
 git clone https://github.com/LeviBorodenko/motionblur motionblur
 ```
 
+From the [link](https://drive.google.com/file/d/1vRoDpIsrTRYZKsOMPNbPcMtFDpCT6Foy/view), download the checkpoint "GOPRO_wVAE.pth" and paste it to ./experiments/pretrained/.
+```
+mv {DOWNLOAD_DIR}/GOPRO_wVAE.pt ./experiments/pretrained/
+```
+{DOWNLOAD_DIR} is the directory that you downloaded checkpoint to.
+
 Install dependencies
 
 ```
