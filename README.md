@@ -7,7 +7,7 @@ In this paper, we advocate viewing the reverse process in DMs as a function and 
 IPs using pretrained DMs, dubbed DMPlug. DMPlug addresses the issues of manifold feasibility and measurement feasibility 
 in a principled manner, and also shows great potential for being robust to unknown types and levels of noise. Through 
 extensive experiments across various IP tasks, including two linear and three nonlinear IPs, we demonstrate that DMPlug 
-consistently outperforms state-of-the-art methods, often by large margins especially for nonlinear IPs.
+consistently outperforms state-of-the-art methods, often by large margins especially for nonlinear IPs (typically **3-6dB in terms of PSNR**).
 
 ![title](images/main.png)
 
