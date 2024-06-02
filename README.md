@@ -5,9 +5,9 @@ This is the official implementation of "DMPlug: A Plug-in Method for Solving Inv
 ## Abstract
 In this paper, we advocate viewing the reverse process in DMs as a function and propose a novel plug-in method for solving 
 IPs using pretrained DMs, dubbed DMPlug. DMPlug addresses the issues of manifold feasibility and measurement feasibility 
-in a principled manner, and also shows great potential for being **robust to unknown types and levels of noise**. Through 
+in a principled manner, and also shows great potential for being <mark>robust to unknown types and levels of noise</mark>. Through 
 extensive experiments across various IP tasks, including two linear and three nonlinear IPs, we demonstrate that DMPlug 
-consistently outperforms state-of-the-art methods, often by large margins especially for nonlinear IPs (typically **3-6dB in terms of PSNR**).
+consistently <mark>outperforms state-of-the-art methods</mark>, often by large margins especially for nonlinear IPs (typically <mark>3-6dB in terms of PSNR</mark>).
 
 ![title](images/main.png)
 
