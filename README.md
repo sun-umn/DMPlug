@@ -80,6 +80,25 @@ python turbulence.py
 ## References
 This repo is developed based on [DPS](https://github.com/DPS2022/diffusion-posterior-sampling) and [BlindDPS](https://github.com/BlindDPS/blind-dps), especially for forward operations. Please also consider citing them if you use this repo.
 
+## Citation
+
+If you find our work interesting, please consider citing
+```
+@misc{wang_dmplug_2024,
+	title = {{DMPlug}: {A} {Plug}-in {Method} for {Solving} {Inverse} {Problems} with {Diffusion} {Models}},
+	shorttitle = {{DMPlug}},
+	url = {http://arxiv.org/abs/2405.16749},
+	doi = {10.48550/arXiv.2405.16749},
+	urldate = {2024-06-03},
+	publisher = {arXiv},
+	author = {Wang, Hengkang and Zhang, Xu and Li, Taihui and Wan, Yuxiang and Chen, Tiancong and Sun, Ju},
+	month = may,
+	year = {2024},
+	note = {arXiv:2405.16749 [cs]},
+	keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Machine Learning},
+}
+
+```
 
 ## Contact
 
