@@ -1,6 +1,6 @@
 # DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models (NeurIPS 2024)
 
-This is the official implementation of "DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models". You can find our paper via [arXiv](https://arxiv.org/abs/2405.16749).
+This is the official implementation of "DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models". This paper has been accpeted by [NeurIPS 2024](https://neurips.cc/). You can find our paper via [arXiv](https://arxiv.org/abs/2405.16749).
 
 ## Abstract
 In this paper, we advocate viewing the reverse process in DMs as a function and propose a novel plug-in method for solving 
