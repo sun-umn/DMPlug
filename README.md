@@ -24,7 +24,7 @@ cd DMPlug
 
 ### 2) Download pretrained checkpoint
 
-From the [link](https://onedrive.live.com/?authkey=%21AOIJGI8FUQXvFf8&id=72419B431C262344%21103807&cid=72419B431C262344), download the checkpoint "celebahq_p2.pt" and paste it to ./models/;
+From the [link](https://drive.google.com/drive/u/0/folders/15sp0fzSvITsu77ZETEaJf6y9G3HJAjai), download the checkpoint "celebahq_p2.pt" and paste it to ./models/;
 
 From the [link](https://drive.google.com/drive/folders/1jElnRoFv7b31fG0v6pTSQkelbSX3xGZh), download the checkpoint "ffhq_10m.pt" and paste it to ./models/;
 
